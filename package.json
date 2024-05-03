@@ -1,0 +1,16 @@
+{
+  "name": "com.dreadscripts.noautogame",
+  "displayName": "DreadScripts - NoAutoGame",
+  "version": "1.0.0",
+  "description": " Handles the Game Window automatically focusing when entering PlayMode.",
+  "gitDependencies": {},
+  "vpmDependencies": {},
+  "author": {
+    "name": "Dreadrith",
+    "email": "dreadscripts@gmail.com",
+    "url": "https://www.dreadrith.com"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "type": "tool"
+}
