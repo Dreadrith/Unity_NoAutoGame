@@ -1,8 +1,8 @@
 {
   "name": "com.dreadscripts.noautogame",
   "displayName": "DreadScripts - NoAutoGame",
-  "version": "1.0.0",
-  "description": " Handles the Game Window automatically focusing when entering PlayMode.",
+  "version": "1.0.1",
+  "description": "Prevents the Game window from opening or automatically focusing.",
   "gitDependencies": {},
   "vpmDependencies": {},
   "author": {
@@ -12,5 +12,6 @@
   },
   "legacyFolders": {},
   "legacyFiles": {},
-  "type": "tool"
+  "type": "tool",
+  "unity": "2019.4"
 }
